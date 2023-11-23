@@ -1,0 +1,8 @@
+.titulo {text-align: center; color: lightcoral}
+.paragrafo {
+    background-color: lightgoldenrodyellow;
+    color: red;
+    padding: 24px 0;
+    margin: 0 16px;
+    font-size: 16px;
+}
